@@ -1,0 +1,14 @@
+{
+    "name": "engine.io-client",
+    "description": "Client for the realtime Engine",
+    "repos": "https://github.com/socketio/engine.io-client.git",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "has-cors": "1.1.0"
+    },
+    "paths": {
+        "xmlhttprequest-ssl": "./lib/xmlhttprequest.js"
+    },
+    "version": "1.6.4"
+}
